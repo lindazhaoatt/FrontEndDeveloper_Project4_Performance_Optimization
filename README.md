@@ -12,6 +12,7 @@ SHORTENING THE CRITICAL RENDERING PATH. The PageSpeed was improved to: Mobile 94
 5. moved the google font link to below the footer;
 6. cam_be_like.jpg was compressed from 262Kb to 24KB;
 7. mobilewebdev.jpg was compressed from 187Kb to 14KB;
+8. pizzeria.jpg was compressed into pizzeria_tiny.jpg from 2.3Mb to 16Kb and pizzeria_tiny.jpg is being used on index.html
 
 
 
