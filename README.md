@@ -10,9 +10,8 @@ SHORTENING THE CRITICAL RENDERING PATH. The PageSpeed was improved to: Mobile 94
 3. change the perfmatters.js into inline script and minified the function logCRP;
 4. inlined and minified style.css file;
 5. moved the google font link to below the footer;
-6. pizzeria.jpg was compressed from 2.3MB to 16KB;
-7. cam_be_like.jpg was compressed from 262Kb to 24KB;
-8. mobilewebdev.jpg was compressed from 187Kb to 14KB;
+6. cam_be_like.jpg was compressed from 262Kb to 24KB;
+7. mobilewebdev.jpg was compressed from 187Kb to 14KB;
 
 
 
